@@ -20,4 +20,4 @@ jobs:
               with:
                   assignees: nponsard, ROMemories, anlavandier
                   numOfAssignee: 1
-                  allowSelfAssign: true
+                  allowSelfAssign: false
